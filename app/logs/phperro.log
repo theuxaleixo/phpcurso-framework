@@ -1,0 +1,187 @@
+Erro: include(./../app/teste.php): failed to open stream: No such file or directory no arquivo D:\www\htdocs\framework\public\index.php na linha 5
+Erro: include(): Failed opening './../app/teste.php' for inclusion (include_path='D:\www\php\PEAR') no arquivo D:\www\htdocs\framework\public\index.php na linha 5
+Erro: include(./../app/teste.php): failed to open stream: No such file or directory no arquivo D:\www\htdocs\framework\public\index.php na linha 5
+Erro: include(): Failed opening './../app/teste.php' for inclusion (include_path='D:\www\php\PEAR') no arquivo D:\www\htdocs\framework\public\index.php na linha 5
+Erro: include(./../app/teste.php): failed to open stream: No such file or directory no arquivo D:\www\htdocs\framework\public\index.php na linha 5
+Erro: include(): Failed opening './../app/teste.php' for inclusion (include_path='D:\www\php\PEAR') no arquivo D:\www\htdocs\framework\public\index.php na linha 5
+Erro: include(./../app/teste.php): failed to open stream: No such file or directory no arquivo D:\www\htdocs\framework\public\index.php na linha 5
+Erro: include(): Failed opening './../app/teste.php' for inclusion (include_path='D:\www\php\PEAR') no arquivo D:\www\htdocs\framework\public\index.php na linha 5
+Erro: include(./../app/teste.php): failed to open stream: No such file or directory no arquivo D:\www\htdocs\framework\public\index.php na linha 5
+Erro: include(): Failed opening './../app/teste.php' for inclusion (include_path='D:\www\php\PEAR') no arquivo D:\www\htdocs\framework\public\index.php na linha 5
+Erro: include(./../app/teste.php): failed to open stream: No such file or directory no arquivo D:\www\htdocs\framework\public\index.php na linha 5
+Erro: include(): Failed opening './../app/teste.php' for inclusion (include_path='D:\www\php\PEAR') no arquivo D:\www\htdocs\framework\public\index.php na linha 5
+Erro: include(./../app/teste.php): failed to open stream: No such file or directory no arquivo D:\www\htdocs\framework\public\index.php na linha 5
+Erro: include(): Failed opening './../app/teste.php' for inclusion (include_path='D:\www\php\PEAR') no arquivo D:\www\htdocs\framework\public\index.php na linha 5
+Erro: Undefined index: email_erro no arquivo D:\www\htdocs\framework\app\Views\usuarios\login.php na linha 14
+Erro: Undefined index: email_erro no arquivo D:\www\htdocs\framework\app\Views\usuarios\login.php na linha 16
+Erro: Undefined index: senha_erro no arquivo D:\www\htdocs\framework\app\Views\usuarios\login.php na linha 21
+Erro: Undefined index: senha_erro no arquivo D:\www\htdocs\framework\app\Views\usuarios\login.php na linha 23
+Erro: Trying to get property 'usuario_id' of non-object no arquivo D:\www\htdocs\framework\app\Controllers\Posts.php na linha 144
+Erro: Trying to get property 'titulo' of non-object no arquivo D:\www\htdocs\framework\app\Views\posts\ver.php na linha 6
+Erro: Trying to get property 'titulo' of non-object no arquivo D:\www\htdocs\framework\app\Views\posts\ver.php na linha 12
+Erro: Trying to get property 'texto' of non-object no arquivo D:\www\htdocs\framework\app\Views\posts\ver.php na linha 15
+Erro: Trying to get property 'nome' of non-object no arquivo D:\www\htdocs\framework\app\Views\posts\ver.php na linha 19
+Erro: Trying to get property 'criado_em' of non-object no arquivo D:\www\htdocs\framework\app\Views\posts\ver.php na linha 19
+Erro: Trying to get property 'usuario_id' of non-object no arquivo D:\www\htdocs\framework\app\Views\posts\ver.php na linha 23
+Erro: Trying to get property 'usuario_id' of non-object no arquivo D:\www\htdocs\framework\app\Controllers\Posts.php na linha 149
+Erro: Trying to get property 'titulo' of non-object no arquivo D:\www\htdocs\framework\app\Views\posts\ver.php na linha 6
+Erro: Trying to get property 'titulo' of non-object no arquivo D:\www\htdocs\framework\app\Views\posts\ver.php na linha 12
+Erro: Trying to get property 'texto' of non-object no arquivo D:\www\htdocs\framework\app\Views\posts\ver.php na linha 15
+Erro: Trying to get property 'nome' of non-object no arquivo D:\www\htdocs\framework\app\Views\posts\ver.php na linha 19
+Erro: Trying to get property 'criado_em' of non-object no arquivo D:\www\htdocs\framework\app\Views\posts\ver.php na linha 19
+Erro: Trying to get property 'usuario_id' of non-object no arquivo D:\www\htdocs\framework\app\Views\posts\ver.php na linha 23
+Erro: Undefined index: email_erro no arquivo D:\www\htdocs\framework\app\Views\usuarios\login.php na linha 14
+Erro: Undefined index: email_erro no arquivo D:\www\htdocs\framework\app\Views\usuarios\login.php na linha 16
+Erro: Undefined index: senha_erro no arquivo D:\www\htdocs\framework\app\Views\usuarios\login.php na linha 21
+Erro: Undefined index: senha_erro no arquivo D:\www\htdocs\framework\app\Views\usuarios\login.php na linha 23
+Erro: Trying to get property 'usuario_id' of non-object no arquivo D:\www\htdocs\framework\app\Controllers\Posts.php na linha 149
+Erro: Trying to get property 'titulo' of non-object no arquivo D:\www\htdocs\framework\app\Views\posts\ver.php na linha 6
+Erro: Trying to get property 'titulo' of non-object no arquivo D:\www\htdocs\framework\app\Views\posts\ver.php na linha 12
+Erro: Trying to get property 'texto' of non-object no arquivo D:\www\htdocs\framework\app\Views\posts\ver.php na linha 15
+Erro: Trying to get property 'nome' of non-object no arquivo D:\www\htdocs\framework\app\Views\posts\ver.php na linha 19
+Erro: Trying to get property 'criado_em' of non-object no arquivo D:\www\htdocs\framework\app\Views\posts\ver.php na linha 19
+Erro: Trying to get property 'usuario_id' of non-object no arquivo D:\www\htdocs\framework\app\Views\posts\ver.php na linha 23
+Erro: Undefined index: email_erro no arquivo C:\xampp\htdocs\framework\app\Views\usuarios\login.php na linha 14
+Erro: Undefined index: email_erro no arquivo C:\xampp\htdocs\framework\app\Views\usuarios\login.php na linha 16
+Erro: Undefined index: senha_erro no arquivo C:\xampp\htdocs\framework\app\Views\usuarios\login.php na linha 21
+Erro: Undefined index: senha_erro no arquivo C:\xampp\htdocs\framework\app\Views\usuarios\login.php na linha 23
+Erro: Undefined property: stdClass::$biografia no arquivo C:\xampp\htdocs\framework\app\Controllers\Usuarios.php na linha 83
+Erro: Undefined index: nome_erro no arquivo C:\xampp\htdocs\framework\app\Views\usuarios\perfil.php na linha 26
+Erro: Undefined index: nome_erro no arquivo C:\xampp\htdocs\framework\app\Views\usuarios\perfil.php na linha 28
+Erro: Undefined index: email_erro no arquivo C:\xampp\htdocs\framework\app\Views\usuarios\perfil.php na linha 33
+Erro: Undefined index: email_erro no arquivo C:\xampp\htdocs\framework\app\Views\usuarios\perfil.php na linha 35
+Erro: Undefined index: senha_erro no arquivo C:\xampp\htdocs\framework\app\Views\usuarios\perfil.php na linha 40
+Erro: Undefined index: senha_erro no arquivo C:\xampp\htdocs\framework\app\Views\usuarios\perfil.php na linha 42
+Erro: Undefined index: nome_erro no arquivo C:\xampp\htdocs\framework\app\Views\usuarios\cadastrar.php na linha 12
+Erro: Undefined index: nome_erro no arquivo C:\xampp\htdocs\framework\app\Views\usuarios\cadastrar.php na linha 14
+Erro: Undefined index: senha_erro no arquivo C:\xampp\htdocs\framework\app\Views\usuarios\cadastrar.php na linha 26
+Erro: Undefined index: senha_erro no arquivo C:\xampp\htdocs\framework\app\Views\usuarios\cadastrar.php na linha 28
+Erro: Undefined index: confirma_senha_erro no arquivo C:\xampp\htdocs\framework\app\Views\usuarios\cadastrar.php na linha 33
+Erro: Undefined index: confirma_senha_erro no arquivo C:\xampp\htdocs\framework\app\Views\usuarios\cadastrar.php na linha 35
+Erro: Undefined index: nome_erro no arquivo C:\xampp\htdocs\framework\app\Views\usuarios\cadastrar.php na linha 12
+Erro: Undefined index: nome_erro no arquivo C:\xampp\htdocs\framework\app\Views\usuarios\cadastrar.php na linha 14
+Erro: Undefined index: senha_erro no arquivo C:\xampp\htdocs\framework\app\Views\usuarios\cadastrar.php na linha 26
+Erro: Undefined index: senha_erro no arquivo C:\xampp\htdocs\framework\app\Views\usuarios\cadastrar.php na linha 28
+Erro: Undefined index: confirma_senha_erro no arquivo C:\xampp\htdocs\framework\app\Views\usuarios\cadastrar.php na linha 33
+Erro: Undefined index: confirma_senha_erro no arquivo C:\xampp\htdocs\framework\app\Views\usuarios\cadastrar.php na linha 35
+Erro: Undefined index: nome_erro no arquivo C:\xampp\htdocs\framework\app\Views\usuarios\cadastrar.php na linha 12
+Erro: Undefined index: nome_erro no arquivo C:\xampp\htdocs\framework\app\Views\usuarios\cadastrar.php na linha 14
+Erro: Undefined index: senha_erro no arquivo C:\xampp\htdocs\framework\app\Views\usuarios\cadastrar.php na linha 26
+Erro: Undefined index: senha_erro no arquivo C:\xampp\htdocs\framework\app\Views\usuarios\cadastrar.php na linha 28
+Erro: Undefined index: confirma_senha_erro no arquivo C:\xampp\htdocs\framework\app\Views\usuarios\cadastrar.php na linha 33
+Erro: Undefined index: confirma_senha_erro no arquivo C:\xampp\htdocs\framework\app\Views\usuarios\cadastrar.php na linha 35
+Erro: Undefined index: email_erro no arquivo C:\xampp\htdocs\framework\app\Views\usuarios\cadastrar.php na linha 19
+Erro: Undefined index: email_erro no arquivo C:\xampp\htdocs\framework\app\Views\usuarios\cadastrar.php na linha 21
+Erro: Undefined index: senha_erro no arquivo C:\xampp\htdocs\framework\app\Views\usuarios\cadastrar.php na linha 26
+Erro: Undefined index: senha_erro no arquivo C:\xampp\htdocs\framework\app\Views\usuarios\cadastrar.php na linha 28
+Erro: Undefined index: confirma_senha_erro no arquivo C:\xampp\htdocs\framework\app\Views\usuarios\cadastrar.php na linha 33
+Erro: Undefined index: confirma_senha_erro no arquivo C:\xampp\htdocs\framework\app\Views\usuarios\cadastrar.php na linha 35
+Erro: Undefined index: email_erro no arquivo C:\xampp\htdocs\framework\app\Views\usuarios\cadastrar.php na linha 19
+Erro: Undefined index: email_erro no arquivo C:\xampp\htdocs\framework\app\Views\usuarios\cadastrar.php na linha 21
+Erro: Undefined index: senha_erro no arquivo C:\xampp\htdocs\framework\app\Views\usuarios\cadastrar.php na linha 26
+Erro: Undefined index: senha_erro no arquivo C:\xampp\htdocs\framework\app\Views\usuarios\cadastrar.php na linha 28
+Erro: Undefined index: confirma_senha_erro no arquivo C:\xampp\htdocs\framework\app\Views\usuarios\cadastrar.php na linha 33
+Erro: Undefined index: confirma_senha_erro no arquivo C:\xampp\htdocs\framework\app\Views\usuarios\cadastrar.php na linha 35
+Erro: Undefined index: email_erro no arquivo C:\xampp\htdocs\framework\app\Views\usuarios\cadastrar.php na linha 19
+Erro: Undefined index: email_erro no arquivo C:\xampp\htdocs\framework\app\Views\usuarios\cadastrar.php na linha 21
+Erro: Undefined index: senha_erro no arquivo C:\xampp\htdocs\framework\app\Views\usuarios\cadastrar.php na linha 26
+Erro: Undefined index: senha_erro no arquivo C:\xampp\htdocs\framework\app\Views\usuarios\cadastrar.php na linha 28
+Erro: Undefined index: confirma_senha_erro no arquivo C:\xampp\htdocs\framework\app\Views\usuarios\cadastrar.php na linha 33
+Erro: Undefined index: confirma_senha_erro no arquivo C:\xampp\htdocs\framework\app\Views\usuarios\cadastrar.php na linha 35
+Erro: Undefined index: nome_erro no arquivo C:\xampp\htdocs\framework\app\Views\usuarios\cadastrar.php na linha 12
+Erro: Undefined index: nome_erro no arquivo C:\xampp\htdocs\framework\app\Views\usuarios\cadastrar.php na linha 14
+Erro: Undefined index: senha_erro no arquivo C:\xampp\htdocs\framework\app\Views\usuarios\cadastrar.php na linha 26
+Erro: Undefined index: senha_erro no arquivo C:\xampp\htdocs\framework\app\Views\usuarios\cadastrar.php na linha 28
+Erro: Undefined index: confirma_senha_erro no arquivo C:\xampp\htdocs\framework\app\Views\usuarios\cadastrar.php na linha 33
+Erro: Undefined index: confirma_senha_erro no arquivo C:\xampp\htdocs\framework\app\Views\usuarios\cadastrar.php na linha 35
+Erro: Undefined index: nome_erro no arquivo C:\xampp\htdocs\framework\app\Views\usuarios\cadastrar.php na linha 12
+Erro: Undefined index: nome_erro no arquivo C:\xampp\htdocs\framework\app\Views\usuarios\cadastrar.php na linha 14
+Erro: Undefined index: senha_erro no arquivo C:\xampp\htdocs\framework\app\Views\usuarios\cadastrar.php na linha 26
+Erro: Undefined index: senha_erro no arquivo C:\xampp\htdocs\framework\app\Views\usuarios\cadastrar.php na linha 28
+Erro: Undefined index: confirma_senha_erro no arquivo C:\xampp\htdocs\framework\app\Views\usuarios\cadastrar.php na linha 33
+Erro: Undefined index: confirma_senha_erro no arquivo C:\xampp\htdocs\framework\app\Views\usuarios\cadastrar.php na linha 35
+Erro: Undefined index: email_erro no arquivo C:\xampp\htdocs\framework\app\Views\usuarios\cadastrar.php na linha 19
+Erro: Undefined index: email_erro no arquivo C:\xampp\htdocs\framework\app\Views\usuarios\cadastrar.php na linha 21
+Erro: Undefined index: senha_erro no arquivo C:\xampp\htdocs\framework\app\Views\usuarios\cadastrar.php na linha 26
+Erro: Undefined index: senha_erro no arquivo C:\xampp\htdocs\framework\app\Views\usuarios\cadastrar.php na linha 28
+Erro: Undefined index: confirma_senha_erro no arquivo C:\xampp\htdocs\framework\app\Views\usuarios\cadastrar.php na linha 33
+Erro: Undefined index: confirma_senha_erro no arquivo C:\xampp\htdocs\framework\app\Views\usuarios\cadastrar.php na linha 35
+Erro: Undefined index: nome_erro no arquivo C:\xampp\htdocs\framework\app\Views\usuarios\cadastrar.php na linha 12
+Erro: Undefined index: nome_erro no arquivo C:\xampp\htdocs\framework\app\Views\usuarios\cadastrar.php na linha 14
+Erro: Undefined index: senha_erro no arquivo C:\xampp\htdocs\framework\app\Views\usuarios\cadastrar.php na linha 26
+Erro: Undefined index: senha_erro no arquivo C:\xampp\htdocs\framework\app\Views\usuarios\cadastrar.php na linha 28
+Erro: Undefined index: confirma_senha_erro no arquivo C:\xampp\htdocs\framework\app\Views\usuarios\cadastrar.php na linha 33
+Erro: Undefined index: confirma_senha_erro no arquivo C:\xampp\htdocs\framework\app\Views\usuarios\cadastrar.php na linha 35
+Erro: Undefined index: nome_erro no arquivo C:\xampp\htdocs\framework\app\Views\usuarios\cadastrar.php na linha 12
+Erro: Undefined index: nome_erro no arquivo C:\xampp\htdocs\framework\app\Views\usuarios\cadastrar.php na linha 14
+Erro: Undefined index: senha_erro no arquivo C:\xampp\htdocs\framework\app\Views\usuarios\cadastrar.php na linha 26
+Erro: Undefined index: senha_erro no arquivo C:\xampp\htdocs\framework\app\Views\usuarios\cadastrar.php na linha 28
+Erro: Undefined index: confirma_senha_erro no arquivo C:\xampp\htdocs\framework\app\Views\usuarios\cadastrar.php na linha 33
+Erro: Undefined index: confirma_senha_erro no arquivo C:\xampp\htdocs\framework\app\Views\usuarios\cadastrar.php na linha 35
+Erro: Undefined index: nome_erro no arquivo C:\xampp\htdocs\framework\app\Views\usuarios\cadastrar.php na linha 12
+Erro: Undefined index: nome_erro no arquivo C:\xampp\htdocs\framework\app\Views\usuarios\cadastrar.php na linha 14
+Erro: Undefined index: senha_erro no arquivo C:\xampp\htdocs\framework\app\Views\usuarios\cadastrar.php na linha 26
+Erro: Undefined index: senha_erro no arquivo C:\xampp\htdocs\framework\app\Views\usuarios\cadastrar.php na linha 28
+Erro: Undefined index: confirma_senha_erro no arquivo C:\xampp\htdocs\framework\app\Views\usuarios\cadastrar.php na linha 33
+Erro: Undefined index: confirma_senha_erro no arquivo C:\xampp\htdocs\framework\app\Views\usuarios\cadastrar.php na linha 35
+Erro: Undefined index: nome_erro no arquivo C:\xampp\htdocs\framework\app\Views\usuarios\cadastrar.php na linha 12
+Erro: Undefined index: nome_erro no arquivo C:\xampp\htdocs\framework\app\Views\usuarios\cadastrar.php na linha 14
+Erro: Undefined index: nome_erro no arquivo C:\xampp\htdocs\framework\app\Views\usuarios\cadastrar.php na linha 12
+Erro: Undefined index: nome_erro no arquivo C:\xampp\htdocs\framework\app\Views\usuarios\cadastrar.php na linha 14
+Erro: Undefined index: email_erro no arquivo C:\xampp\htdocs\framework\app\Views\usuarios\cadastrar.php na linha 19
+Erro: Undefined index: email_erro no arquivo C:\xampp\htdocs\framework\app\Views\usuarios\cadastrar.php na linha 21
+Erro: Array to string conversion no arquivo C:\xampp\htdocs\framework\app\Controllers\Usuarios.php na linha 171
+Erro: Undefined index: nome_erro no arquivo C:\xampp\htdocs\framework\app\Views\usuarios\cadastrar.php na linha 12
+Erro: Undefined index: nome_erro no arquivo C:\xampp\htdocs\framework\app\Views\usuarios\cadastrar.php na linha 14
+Erro: Undefined index: email_erro no arquivo C:\xampp\htdocs\framework\app\Views\usuarios\cadastrar.php na linha 19
+Erro: Undefined index: email_erro no arquivo C:\xampp\htdocs\framework\app\Views\usuarios\cadastrar.php na linha 21
+Erro: Array to string conversion no arquivo C:\xampp\htdocs\framework\app\Controllers\Usuarios.php na linha 171
+Erro: Undefined index: nome_erro no arquivo C:\xampp\htdocs\framework\app\Views\usuarios\cadastrar.php na linha 12
+Erro: Undefined index: nome_erro no arquivo C:\xampp\htdocs\framework\app\Views\usuarios\cadastrar.php na linha 14
+Erro: Undefined index: email_erro no arquivo C:\xampp\htdocs\framework\app\Views\usuarios\cadastrar.php na linha 19
+Erro: Undefined index: email_erro no arquivo C:\xampp\htdocs\framework\app\Views\usuarios\cadastrar.php na linha 21
+Erro: Array to string conversion no arquivo C:\xampp\htdocs\framework\app\Controllers\Usuarios.php na linha 171
+Erro: Array to string conversion no arquivo C:\xampp\htdocs\framework\app\Controllers\Usuarios.php na linha 171
+Erro: Undefined index: nome_erro no arquivo C:\xampp\htdocs\framework\app\Views\usuarios\cadastrar.php na linha 12
+Erro: Undefined index: nome_erro no arquivo C:\xampp\htdocs\framework\app\Views\usuarios\cadastrar.php na linha 14
+Erro: Undefined index: email_erro no arquivo C:\xampp\htdocs\framework\app\Views\usuarios\cadastrar.php na linha 19
+Erro: Undefined index: email_erro no arquivo C:\xampp\htdocs\framework\app\Views\usuarios\cadastrar.php na linha 21
+Erro: Undefined index: senha_erro no arquivo C:\xampp\htdocs\framework\app\Views\usuarios\cadastrar.php na linha 26
+Erro: Undefined index: senha_erro no arquivo C:\xampp\htdocs\framework\app\Views\usuarios\cadastrar.php na linha 28
+Erro: Undefined index: confirma_senha_erro no arquivo C:\xampp\htdocs\framework\app\Views\usuarios\cadastrar.php na linha 33
+Erro: Undefined index: confirma_senha_erro no arquivo C:\xampp\htdocs\framework\app\Views\usuarios\cadastrar.php na linha 35
+Erro: Array to string conversion no arquivo C:\xampp\htdocs\framework\app\Controllers\Usuarios.php na linha 171
+Erro: Undefined index: nome_erro no arquivo C:\xampp\htdocs\framework\app\Controllers\Usuarios.php na linha 171
+Erro: Undefined index: nome_erro no arquivo C:\xampp\htdocs\framework\app\Views\usuarios\cadastrar.php na linha 12
+Erro: Undefined index: nome_erro no arquivo C:\xampp\htdocs\framework\app\Views\usuarios\cadastrar.php na linha 14
+Erro: Undefined index: email_erro no arquivo C:\xampp\htdocs\framework\app\Views\usuarios\cadastrar.php na linha 19
+Erro: Undefined index: email_erro no arquivo C:\xampp\htdocs\framework\app\Views\usuarios\cadastrar.php na linha 21
+Erro: Undefined index: senha_erro no arquivo C:\xampp\htdocs\framework\app\Views\usuarios\cadastrar.php na linha 26
+Erro: Undefined index: senha_erro no arquivo C:\xampp\htdocs\framework\app\Views\usuarios\cadastrar.php na linha 28
+Erro: Undefined index: confirma_senha_erro no arquivo C:\xampp\htdocs\framework\app\Views\usuarios\cadastrar.php na linha 33
+Erro: Undefined index: confirma_senha_erro no arquivo C:\xampp\htdocs\framework\app\Views\usuarios\cadastrar.php na linha 35
+Erro: Undefined index: nome_erro no arquivo C:\xampp\htdocs\framework\app\Controllers\Usuarios.php na linha 171
+Erro: Undefined index: nome_erro no arquivo C:\xampp\htdocs\framework\app\Views\usuarios\cadastrar.php na linha 12
+Erro: Undefined index: nome_erro no arquivo C:\xampp\htdocs\framework\app\Views\usuarios\cadastrar.php na linha 14
+Erro: Undefined index: senha_erro no arquivo C:\xampp\htdocs\framework\app\Views\usuarios\cadastrar.php na linha 26
+Erro: Undefined index: senha_erro no arquivo C:\xampp\htdocs\framework\app\Views\usuarios\cadastrar.php na linha 28
+Erro: Undefined index: confirma_senha_erro no arquivo C:\xampp\htdocs\framework\app\Views\usuarios\cadastrar.php na linha 33
+Erro: Undefined index: confirma_senha_erro no arquivo C:\xampp\htdocs\framework\app\Views\usuarios\cadastrar.php na linha 35
+Erro: Undefined index: nome_erro no arquivo C:\xampp\htdocs\framework\app\Controllers\Usuarios.php na linha 171
+Erro: Undefined index: nome_erro no arquivo C:\xampp\htdocs\framework\app\Views\usuarios\cadastrar.php na linha 12
+Erro: Undefined index: nome_erro no arquivo C:\xampp\htdocs\framework\app\Views\usuarios\cadastrar.php na linha 14
+Erro: Undefined index: senha_erro no arquivo C:\xampp\htdocs\framework\app\Views\usuarios\cadastrar.php na linha 26
+Erro: Undefined index: senha_erro no arquivo C:\xampp\htdocs\framework\app\Views\usuarios\cadastrar.php na linha 28
+Erro: Undefined index: confirma_senha_erro no arquivo C:\xampp\htdocs\framework\app\Views\usuarios\cadastrar.php na linha 33
+Erro: Undefined index: confirma_senha_erro no arquivo C:\xampp\htdocs\framework\app\Views\usuarios\cadastrar.php na linha 35
+Erro: Undefined index: nome_erro no arquivo C:\xampp\htdocs\framework\app\Controllers\Usuarios.php na linha 171
+Erro: Undefined index: nome_erro no arquivo C:\xampp\htdocs\framework\app\Views\usuarios\cadastrar.php na linha 12
+Erro: Undefined index: nome_erro no arquivo C:\xampp\htdocs\framework\app\Views\usuarios\cadastrar.php na linha 14
+Erro: Undefined index: senha_erro no arquivo C:\xampp\htdocs\framework\app\Views\usuarios\cadastrar.php na linha 26
+Erro: Undefined index: senha_erro no arquivo C:\xampp\htdocs\framework\app\Views\usuarios\cadastrar.php na linha 28
+Erro: Undefined index: confirma_senha_erro no arquivo C:\xampp\htdocs\framework\app\Views\usuarios\cadastrar.php na linha 33
+Erro: Undefined index: confirma_senha_erro no arquivo C:\xampp\htdocs\framework\app\Views\usuarios\cadastrar.php na linha 35
+Erro: Undefined index: senha_erro no arquivo C:\xampp\htdocs\framework\app\Views\usuarios\cadastrar.php na linha 26
+Erro: Undefined index: senha_erro no arquivo C:\xampp\htdocs\framework\app\Views\usuarios\cadastrar.php na linha 28
+Erro: Undefined index: confirma_senha_erro no arquivo C:\xampp\htdocs\framework\app\Views\usuarios\cadastrar.php na linha 33
+Erro: Undefined index: confirma_senha_erro no arquivo C:\xampp\htdocs\framework\app\Views\usuarios\cadastrar.php na linha 35
